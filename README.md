@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/connectamitkumar/connectamitkumar/blob/main/BANNER.PNG)](https://www.linkedin.com/in/amitkumar1130/)
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="left">Distinctive combination of technical breadth, business acumen, critical analysis and decision making.</h3>
 <h3 align="left">My Current Focus Areas:Data Analysis, Artificial Intelligence (AI), Natural Language Processing (NLP),Machine Learning, Data Science, Statistics, Data Visualization, Python, SQL, Tableau and Power BI.</h3>
